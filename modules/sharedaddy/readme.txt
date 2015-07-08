@@ -1,6 +1,6 @@
 === Sharedaddy ===
 Contributors: eoigal, johnny5, donncha, polldaddy, automattic
-Tags: share, sharing, email, twitter, facebook, print, reddit, stumbleupon, digg
+Tags: share, sharing, email, twitter, facebook, print, reddit, digg
 Requires at least: 3.0
 Tested up to: 3.1
 Stable tag: trunk
@@ -16,12 +16,11 @@ The following services are included:
 * Twitter
 * Facebook
 * Reddit
-* StumbleUpon
 * PressThis
 * Digg
 * Print
 * Email
- 
+
 Additionally you can define your own custom services.
 
 [wpvideo WV0JOwY2]
